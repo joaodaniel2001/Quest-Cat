@@ -1,0 +1,2 @@
+global.vidaboss = 200;
+
